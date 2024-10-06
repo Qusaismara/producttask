@@ -1,0 +1,10 @@
+.registerproduct{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+#description{
+
+   resize: none; 
+}
+
